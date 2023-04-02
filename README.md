@@ -16,7 +16,7 @@
 >I'm a Software engineer. I'm currently working as a freelancer as a mobile game developer.
   * Student in Germany.
   * Game Developer.
-  * Looking for colaborations.   
+  * Looking for Collaborations .   
   ---
  >### Languages:
  </br> 
