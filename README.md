@@ -9,14 +9,17 @@
 <div id="counter" align="left">
           <img src="https://komarev.com/ghpvc/?username=DZimo&style=flat-square&color=blue&style=flat-square&color=blue"  alt=""/>
 </div>
+ </br> 
 
-
-### Hello World! 👋, it's DZimo
-I'm a Software engineer. I'm currently working as a freelancer as a mobile game developer.
+ 
+ >### Hello World! 👋, it's DZimo
+>I'm a Software engineer. I'm currently working as a freelancer as a mobile game developer.
   * Student in Germany.
   * Game Developer.
-  * Looking for colaborations.
-
+  * Looking for colaborations.   
+  ---
+ >### Languages:
+ </br> 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
