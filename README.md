@@ -12,7 +12,7 @@
  </br> 
 
  
- >### Hello World! 👋, it's DZimo
+ >### Let x = "Hello World" : string 👋, it's DZimo
 >I'm a Software engineer. I'm currently working on my projects as a mobile game developer.
   * Student in Germany.
   * Game Developer.
