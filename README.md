@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp" width="300" height="300"/>
 </div>
-<div id="badges" align="left">
+<div id="badges" align="center">
           <a href="https://www.linkedin.com/in/mohamed-nazim-belabed-b68799127">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&Logocolor=white&style=for-the-badge" />
+          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&Logocolor=white&style=for-the-badge" width="15%" height="100%"/>
           <a/>
 </div>
-<div id="counter" align="left">
-          <img src="https://komarev.com/ghpvc/?username=DZimo&style=flat-square&color=blue&style=flat-square&color=blue"  alt=""/>
+<div id="counter" align="center">
+          <img src="https://komarev.com/ghpvc/?username=DZimo&style=flat-square&color=blue&style=flat-square&color=blue" width="15%" height="100%" alt=""/>
 </div>
  </br> 
 
