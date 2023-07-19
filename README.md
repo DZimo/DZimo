@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif?cid=790b7611zqlmbv5lxsk6anhtvzf4djzffllvemy84e14u22r&rid=giphy.gif&ct=s" width="300" height="300"/>
+  <img src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp" width="300" height="300"/>
 </div>
 <div id="badges" align="left">
           <a href="https://www.linkedin.com/in/mohamed-nazim-belabed-b68799127">
@@ -13,7 +13,7 @@
 
  
  >### Hello World! 👋, it's DZimo
->I'm a Software engineer. I'm currently working as a freelancer as a mobile game developer.
+>I'm a Software engineer. I'm currently working on my projects as a mobile game developer.
   * Student in Germany.
   * Game Developer.
   * Looking for Collaborations .   
@@ -22,6 +22,7 @@
  </br> 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
