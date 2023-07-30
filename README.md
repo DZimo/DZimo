@@ -12,7 +12,7 @@
  </br> 
 
  
- >### Let TheBest = "Hello World" : string;; TheBest it's DZimo 👋
+ >### let x = "Hello World" : string;; x it's DZimo 👋
 >I'm a Software engineer. I'm currently working on my projects as a mobile game developer.
   * Student in Germany.
   * Game Developer.
