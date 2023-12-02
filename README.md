@@ -14,7 +14,7 @@
  
  >### let x = "Hello World" : string;; x it's DZimo 👋
 >No Smile Only Compile  😁  😁 
->I'm a Software engineer i work mostly on my projects #unity, #android, #software, and #programrepair
+>#unity, #android, #software, and #programrepair
   * Student in Germany.
   * Looking for Collaborations .   
   ---
