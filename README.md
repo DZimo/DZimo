@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp" width="300" height="300"/>
+  <img src="https://i.giphy.com/media/ukMiDlCmdv2og/giphy.webp" width="200" height="200"/>
 </div>
 <div id="badges" align="center">
           <a href="https://www.linkedin.com/in/mohamed-nazim-belabed-b68799127">
@@ -11,8 +12,7 @@
 </div>
  </br> 
 
- 
- >###  it's DZimo 👋
+  >###  it's DZimo 👋
 >No Smile Only Compile  :keyboard:  </br> 
 >#.NET #Unity, #Android, #Software, and #ProgramRepair
   * Software Engineer
