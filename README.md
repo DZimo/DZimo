@@ -12,11 +12,11 @@
  </br> 
 
  
- >### let x = "Hello World" : string;; x it's DZimo 👋
->No Smile Only Compile  😁  😁 
->#unity, #android, #software, and #programrepair
-  * Student in Germany.
-  * Looking for Collaborations .   
+ >###  it's DZimo 👋
+>No Smile Only Compile  :keyboard:  </br> 
+>#.NET #Unity, #Android, #Software, and #ProgramRepair
+  * Software Engineer
+  * M. Sc. Computer Science - Passau University 🇩🇪
   ---
  >### Languages:
  </br> 
