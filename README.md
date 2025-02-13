@@ -12,7 +12,7 @@
  </br> 
 
   >###  it's DZimo 👋
->No Smile Only Compile  :keyboard:  </br> 
+>No Smile Only Compile 😂 :keyboard:  </br> 
 >#.NET #Unity, #Android, #Software, and #ProgramRepair
   * Software Engineer
   * M. Sc. Computer Science - Passau University 🇩🇪
@@ -36,6 +36,7 @@
 
 ***
  >### Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DZimo&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DZimo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DZimo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
