@@ -1,19 +1,15 @@
-<div align="center">
-  <img src="https://i.giphy.com/fmkYSBlJt3XjNF6p9c.webp" width="200" height="200"/>
-</div>
 <div id="badges" align="center">
           <a href="https://www.linkedin.com/in/mohamed-nazim-belabed-b68799127">
           <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&Logocolor=white&style=for-the-badge" width="15%" height="100%"/>
           <a/>
+            <div id="counter" align="center">
+              <img src="https://komarev.com/ghpvc/?username=DZimo&style=flat-square&color=blue&style=flat-square&color=blue" width="15%" height="100%" alt=""/>
+            </div>
 </div>
-<div id="counter" align="center">
-          <img src="https://komarev.com/ghpvc/?username=DZimo&style=flat-square&color=blue&style=flat-square&color=blue" width="15%" height="100%" alt=""/>
-</div>
- </br> 
 
   >###  it's DZimo 👋
 >No Smile Only Compile 😂 :keyboard:  </br> 
->#.NET #Unity, #Android, #Software, and #ProgramRepair
+>#.NET #Unity, #Android, #Software, #Automotive and #ProgramRepair
   * Software Engineer
   * M. Sc. Computer Science - Passau University 🇩🇪
   ---
@@ -34,6 +30,8 @@
 </div>
 </br>
 
+
+            
 ***
  >### Stats:
 
